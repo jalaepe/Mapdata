@@ -1,52 +1,53 @@
-{"mapdata":[
-    {
-        "title":"Ulaygyi",
-        "snippet":"+959972381187",
-        "lat":17.334078,
-        "lon":96.473340,
-        "icon":"ic_launcher",
-        "iconColor":175,
-        "tag":"ulaygyi.html",
-        "city":"Bago"
-    },
-    {
-        "title":"Bago Station",
-        "snippet":"+9599123456",
-        "lat":17.33482,
-        "lon":96.47524,
-        "icon":"ic_launcher",
-        "iconColor":175,
-        "tag":"bagostation.html",
-        "city":"Bago"
-    },
-    {
-        "title":"ရွှေတိဂုံ",
-        "snippet":"Shwedagon Pagoda",
-        "lat":16.7986,
-        "lon":96.1495,
-        "icon":"ic_launcher",
-        "iconColor":359,
-        "tag":"shwedagon.html",
-        "city":"Yangon"
-    },
-    {
-        "title":"ဆူးလေ",
-        "snippet":"Sule Pagoda",
-        "lat":16.7744222,
-        "lon":96.158756},
-        "icon":"ic_launcher",
-        "iconColor":260,
-        "tag":"sule.html",
-        "city":"Yangon"
-    },
-    {
-        "title":"ဗိုလ်တစ်ထောင်",
-        "snippet":"Botahtaung Pagoda",
-        "lat":16.768449,
-        "lon":96.171973,
-        "icon":"ic_launcher",
-        "iconColor":175,
-        "tag":"botahtaung.html",
-        "city":"Yangon"
-    }
-]}
+{
+    "mapdata": [{
+            "title": "Ulaygyi",
+            "snippet": "+959972381187",
+            "lat": 17.334078,
+            "lon": 96.473340,
+            "icon": "ic_launcher",
+            "iconColor": 175,
+            "tag": "ulaygyi.html",
+            "city": "Bago"
+        },
+        {
+            "title": "Bago Station",
+            "snippet": "+9599123456",
+            "lat": 17.33482,
+            "lon": 96.47524,
+            "icon": "ic_launcher",
+            "iconColor": 175,
+            "tag": "bagostation.html",
+            "city": "Bago"
+        },
+        {
+            "title": "ရွှေတိဂုံ",
+            "snippet": "Shwedagon Pagoda",
+            "lat": 16.7986,
+            "lon": 96.1495,
+            "icon": "ic_launcher",
+            "iconColor": 359,
+            "tag": "shwedagon.html",
+            "city": "Yangon"
+        },
+        {
+            "title": "ဆူးလေ",
+            "snippet": "Sule Pagoda",
+            "lat": 16.7744222,
+            "lon": 96.158756,
+            "icon": "ic_launcher",
+            "iconColor": 260,
+            "tag": "sule.html",
+            "city": "Yangon"
+        },
+        {
+            "title": "ဗိုလ်တစ်ထောင်",
+            "snippet": "Botahtaung Pagoda",
+            "lat": 16.768449,
+            "lon": 96.171973,
+            "icon": "ic_launcher",
+            "iconColor": 175,
+            "tag": "botahtaung.html",
+            "city": "Yangon"
+        }
+    ]
+}
