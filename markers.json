@@ -3,12 +3,14 @@
         "title":"Ulaygyi",
         "snippet":"+959972381187",
         "lat":17.334078,
-        "lon":96.473340
+        "lon":96.473340,
+        "city":"Bago"
     },
     {
         "title":"Bago Station",
         "snippet":"+9599123456",
         "lat":17.33482,
-        "lon":96.47524
+        "lon":96.47524,
+        "city":"Bago"
     }
 ]}
