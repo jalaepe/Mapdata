@@ -2,19 +2,13 @@
     {
         "title":"Ulaygyi",
         "snippet":"+959972381187",
-        "pdsition":{"lat":17.531234,"lon":96.326666},
-        "iconColor":"",
-        "icon":"",
-        "draggable":true,
-        "tag":{"file":"","image":""}
+        "lat":17.334078,
+        "lon":96.473340
     },
     {
-        "title":"Ulaygyi",
-        "snippet":"+959972381187",
-        "pdsition":{"lat":17.546666,"lon":96.337777},
-        "iconColor":"",
-        "icon":"",
-        "draggable":true,
-        "tag":{"file":"","image":""}
+        "title":"Bago Station",
+        "snippet":"+9599123456",
+        "lat":17.33482,
+        "lon":96.47524
     }
 ]}
