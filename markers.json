@@ -1,72 +1,29 @@
 {
-    "mapdata": [{
-            "title": "Ulaygyi",
-            "snippet": "+959972381187",
-            "lat": 17.334078,
-            "lon": 96.473340,
-            "icon": "ic_launcher",
-            "iconColor": 175,
-            "tag": "ulaygyi.html",
-            "city": "Bago"
-        },
-        {
-            "title": "Bago Station",
-            "snippet": "+9599123456",
-            "lat": 17.33482,
-            "lon": 96.47524,
-            "icon": "ic_launcher",
-            "iconColor": 175,
-            "tag": "bagostation.html",
-            "city": "Bago"
-        },
-        {
-
-            "title": "အထက(ခွဲ)(၅)",
-
-            "snippet": "ပဲခူး",
-
-            "lat": 17.333257,
-
-            "lon": 96.473714,
-
-            "icon": "ic_launcher",
-
-            "iconColor": 175,
-
-            "tag": "behs5.html",
-
-            "city": "Bago"
-
-        },
-        {
-            "title": "ရွှေတိဂုံ",
-            "snippet": "Shwedagon Pagoda",
-            "lat": 16.7986,
-            "lon": 96.1495,
-            "icon": "ic_launcher",
-            "iconColor": 359,
-            "tag": "shwedagon.html",
-            "city": "Yangon"
-        },
-        {
-            "title": "ဆူးလေ",
-            "snippet": "Sule Pagoda",
-            "lat": 16.7744222,
-            "lon": 96.158756,
-            "icon": "ic_launcher",
-            "iconColor": 260,
-            "tag": "sule.html",
-            "city": "Yangon"
-        },
-        {
-            "title": "ဗိုလ်တစ်ထောင်",
-            "snippet": "Botahtaung Pagoda",
-            "lat": 16.768449,
-            "lon": 96.171973,
-            "icon": "ic_launcher",
-            "iconColor": 175,
-            "tag": "botahtaung.html",
-            "city": "Yangon"
-        }
+    "mapdata": [
+        {"title": "Yangon","snippet": "","lat": 16.7816195,"lon": 96.1613823,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Phaya Lan","snippet": "","lat": 16.7811943,"lon": 96.1536592,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Lanmadaw","snippet": "","lat": 16.7829757,"lon": 96.1467938,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Pyay Road","snippet": "","lat": 16.7850767,"lon": 96.1430554,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Shan Road","snippet": "","lat": 16.7869431,"lon": 96.134178,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Ahlone Road","snippet": "","lat": 16.7902008,"lon": 96.1316368,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Pann Hlaing","snippet": "","lat": 16.798082,"lon": 96.1279899,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Kyeemyindaing","snippet": "","lat": 16.8058409,"lon": 96.1272431,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Han Thar Waddy","snippet": "","lat": 16.8170402,"lon": 96.1263558,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Hlae Tann","snippet": "","lat": 16.8238853,"lon": 96.1248241,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Kamaryut","snippet": "","lat": 16.8368638,"lon": 96.1223009,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Thiri Myaing","snippet": "16.8474206","lat": 17,"lon": 96.122986,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Oke Kyin","snippet": "","lat": 16.85467,"lon": 96.1168108,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Tha Mine","snippet": "","lat": 16.8602785,"lon": 96.1145061,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Gyo Gone","snippet": "","lat": 16.8730472,"lon": 96.1099985,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Insein","snippet": "","lat": 16.8789782,"lon": 96.1074844,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Ywa Ma","snippet": "","lat": 16.8992409,"lon": 96.0975052,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Phawt Kan","snippet": "","lat": 16.9015772,"lon": 96.0946842,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Aung San","snippet": "","lat": 16.9149266,"lon": 96.093813,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Da Nyin Gone","snippet": "","lat": 16.9357131,"lon": 96.0908934,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Set Hmu Zone","snippet": "","lat": 16.9409127,"lon": 96.0857888,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Shwe Pyi Thar","snippet": "","lat": 16.9828931,"lon": 96.0315862,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Thar Du Kan","snippet": "","lat": 16.9717494,"lon": 96.0838554,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""},
+        {"title": "Hlawga","snippet": "","lat": 16.9984966,"lon": 96.0763245,"icon": "ic_launcher","iconColor": 175,"tag": "","city": ""}
+        
     ]
 }
